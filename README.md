@@ -1,20 +1,54 @@
 # Responsive Personal Portfolio Template
 
-A modern and responsive personal portfolio template built with HTML and CSS. Perfect for developers, designers, or students to showcase their work.
+A clean and modern personal portfolio template built with HTML and CSS. Ideal for developers, designers, freelancers, and students.
 
 ## 🌟 Features
-- Responsive design for all screen sizes
-- Clean and simple layout
+- Fully responsive design
 - Sections: About, Skills, Projects, Contact
+- Simple and lightweight
 - Easy to customize
 
-## 🚀 Live Demo
-[Click here to view the live demo](https://github.com/Himanshu-jha0606)
-
-## 📁 Technologies Used
+## 🔧 Technologies
 - HTML5
 - CSS3
 - Flexbox
 
+## 📁 Files Included
+- index.html
+- about.html
+- contact.html
+- styles.css
+- assets/images/
+
+## 📝 License
+This project is licensed under the MIT License.
+
+## 👀 Live Demo
+[Live Preview](# Responsive Personal Portfolio Template
+
+A clean and modern personal portfolio template built with HTML and CSS. Ideal for developers, designers, freelancers, and students.
+
+## 🌟 Features
+- Fully responsive design
+- Sections: About, Skills, Projects, Contact
+- Simple and lightweight
+- Easy to customize
+
+## 🔧 Technologies
+- HTML5
+- CSS3
+- Flexbox
+
+## 📁 Files Included
+- index.html
+- about.html
+- contact.html
+- styles.css
+- assets/images/
+
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👀 Live Demo
+[Live Preview](https://github.com/Himanshu-jha0606)
+)
