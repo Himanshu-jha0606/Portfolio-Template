@@ -21,7 +21,7 @@ A clean and modern personal portfolio template built with HTML and CSS. Ideal fo
 - assets/images/
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 👀 Live Demo
 [Live Preview]((https://github.com/Himanshu-jha0606)
