@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 44%;
+}
+
+header {
+  height: 250px;
+  background: #222;
+  padding: 20px 0;
+  color: #fff;
+}
+
+nav ul{
+    display: flex;
+    gap: 100px;
+    padding-top: 20px;
+    list-style: none;
+    justify-content: center;
+}
+
+nav a{
+    color: #fff;
+}
+
+.Hero{
+    text-align: center;
+    padding: 100px 0 ;
+    background: #f4f4f4;
+}
+
+.Hero h2{
+    font-family: sans-serif;
+    font-size: 2.5rem;
+}
+
+.Hero p{
+    margin: 20px 0;
+    font-size: 1.2rem;
+    padding-bottom: 20px;
+}
+
+.btn{
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.btn:hover{
+    background: #0056b3;
+}
+
+.About{
+    text-align: center;
+    padding: 100px 0px;
+    background-color: #f9f9f9;
+}
+
+.About h2{
+    font-family: sans-serif;
+    font-size: 2.5rem;
+}
+
+.About p{   
+    margin: 20px;
+    font-size: 1.2rem;
+    padding-bottom: 20px;
+    color: #444;
+}
+
+.About h3{
+    font-size: 2rem;
+}
+
+.skills-list{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 35px;
+}
+
+.skills-list li{
+    background-color: #333  ;
+    border-radius: 5px;
+    color: #fff;
+    padding: 8px 16px;
+}
+
+.contact{
+    text-align: center;
+    padding: 50px;
+    background-color: #f9f9f9
+}
+
+.contact h2{
+    font-size: 2.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact p{
+    margin: 10px;
+    font-size: 1.2rem;
+    padding-bottom: 20px;
+    color: #444;
+}
+
+.social-links a{
+    margin: 20px;
+    color: #007BFF;
+}
+
+.footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9rem;
+}
+
+.footer p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+
+  .skills-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .photo{
+    margin-right: 50%;
+  }
+
+  .hero h2 {
+    font-size: 2rem;
+  }
+
+  .about p,
+  .projects p,
+  .contact p {
+   font-size: 1rem;
+  }
+}
+
+
+
+
+
