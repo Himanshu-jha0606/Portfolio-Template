@@ -20,11 +20,8 @@ A clean and modern personal portfolio template built with HTML and CSS. Ideal fo
 - styles.css
 - assets/images/
 
-## 📝 License
-This project is licensed under the MIT License.
-
 ## 👀 Live Demo
-[Live Preview](# Responsive Personal Portfolio Template
+[Live Preview](https://github.com/Himanshu-jha0606)
 
 A clean and modern personal portfolio template built with HTML and CSS. Ideal for developers, designers, freelancers, and students.
 
@@ -49,6 +46,4 @@ A clean and modern personal portfolio template built with HTML and CSS. Ideal fo
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👀 Live Demo
-[Live Preview](https://github.com/Himanshu-jha0606)
-)
+
