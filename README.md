@@ -9,7 +9,7 @@ A modern and responsive personal portfolio template built with HTML and CSS. Per
 - Easy to customize
 
 ## 🚀 Live Demo
-[Click here to view the live demo](https://yourusername.github.io/your-repo-name/)
+[Click here to view the live demo](https://github.com/Himanshu-jha0606)
 
 ## 📁 Technologies Used
 - HTML5
